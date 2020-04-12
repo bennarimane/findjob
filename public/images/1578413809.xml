@@ -1,0 +1,80 @@
+﻿<!--<?xml version="1.0" encoding="UTF-8"?>
+<universite   willaya="tlemcen">
+<faculte  name="science">
+<departement>
+Le département d’informatique de la faculté des
+sciences de l’université de Tlemcen, offre deux
+type de formation:
+<formation type="licence" duree="3ans">
+<l1></l1>
+<l2></l2>
+<l3></l3>
+</formation>
+<formation  type="master" duree="2ans">
+<master1>
+<gl></gl>
+<rsd></rsd>
+<sic></sic>
+<mid></mid></master1>
+
+<master2>
+<gl></gl>
+<rsd></rsd>
+<sic></sic>
+<mid></mid></master2>
+</formation>
+
+</departement>
+
+
+
+</faculte>
+
+
+</universite>-->
+
+
+
+<universite wilaya="tlemcen"> 
+<faculte nom="science">
+<departement nom="informatique"> Le département d'informatique de la faculté des science de l'université de tlemcen , offre deux type 
+<formation type="licence "> licence informatique en trois ans
+<L1></L1>
+ 
+<L2></L2>
+<L3></L3>
+</formation>
+<formation type="master"> &amp;master en deux ans , il existe quatre spécialités donts les intitulés sont :
+<specialites inititulés="GL" >
+ GL 
+ <M1>
+ </M1>
+<duree>dd</duree>
+ <M2>
+ </M2>
+ </specialites>
+<specialites inititulés="SIC">
+ SIC 
+ <M1>
+ </M1>
+ <M2>
+ </M2>
+ </specialites>
+<specialites inititulés="RSD">
+ RSD 
+ <M1>
+ </M1>
+ <M2>
+ </M2>
+ </specialites>
+<specialites inititulés="MID" >
+ MID 
+ <M1>
+ </M1>
+ <M2>
+ </M2>
+ </specialites>
+ </formation>
+</departement>
+</faculte>
+</universite>

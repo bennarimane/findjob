@@ -1,0 +1,7 @@
+[34mPsy Shell v0.9.11 (PHP 7.2.19 — cli) by Justin Hileman[39m
+[30;43mPHP Warning:  include(//THEN): failed to open stream: No such file or directory in C:/laragon/www/www/offre/vendor/psy/psysh/src/ExecutionLoop.php on line 48[39;49m
+[30;43mPHP Warning:  include(factory(App/User:class,50)-): failed to open stream: No such file or directory in C:/laragon/www/www/offre/vendor/psy/psysh/src/ExecutionLoop.php on line 48[39;49m
+[30;43mPHP Warning:  include(//THEN): failed to open stream: No such file or directory in C:/laragon/www/www/offre/vendor/psy/psysh/src/ExecutionLoop.php on line 48[39;49m
+[30;43mPHP Warning:  include(exit): failed to open stream: No such file or directory in C:/laragon/www/www/offre/vendor/psy/psysh/src/ExecutionLoop.php on line 48[39;49m
+
+[30;41;1mExit:  Ctrl+D[39;49;22m
